@@ -1,5 +1,7 @@
 ~Helix.db3@venmo.com
-
+unidentified-frequcncy.blogspot.com
+Individual profile for Play and YouTube
+Payments profile ID: 8605-5565-4423
 # Images
 images/avatars/
 images/captchas/
@@ -17,3 +19,8 @@ sized/
 thumbs/
 _thumbs/
 */expressionengine/cache/*
+Run npm run build
+  npm run build
+  shell: /usr/bin/bash -e {0}
+  env: admob.com
+    CI: true
